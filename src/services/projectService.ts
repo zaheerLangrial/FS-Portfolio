@@ -25,8 +25,8 @@ const MOCK_PROJECTS: Project[] = [
   },
   {
     _id: '3',
-    title: 'Axya Frontend Components',
-    description: 'Contributed to Axya by developing frontend components, integrating APIs, and implementing parsers for data processing.',
+    title: 'B2B',
+    description: 'Contributed to B2b by developing frontend components, integrating APIs, and implementing parsers for data processing.',
     image: 'https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     technologies: ['React', 'TypeScript', 'Node.js', 'Express'],
     githubUrl: 'https://github.com/example/axya-components',

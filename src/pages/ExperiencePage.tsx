@@ -23,7 +23,7 @@ const ExperiencePage = () => {
     },
     {
       title: "Frontend Developer",
-      company: "Palmera Hospital Services",
+      company: "Hospital Services",
       description: "Worked on the React frontend for a comprehensive hospital services management application, focusing on user experience and responsive design.",
       startDate: "June 2022",
       endDate: "December 2022",
