@@ -8,17 +8,17 @@ const ContactPage = () => {
     {
       icon: <MapPin className="text-accent-500" />,
       title: 'Location',
-      details: 'New York, NY, USA'
+      details: 'Pakistan, Punjab, Bahawalpur'
     },
     {
       icon: <Mail className="text-accent-500" />,
       title: 'Email',
-      details: 'contact@example.com'
+      details: 'zaheerahmadlangrial92@gmail.com'
     },
     {
       icon: <Phone className="text-accent-500" />,
       title: 'Phone',
-      details: '+1 (123) 456-7890'
+      details: '03057657111'
     }
   ];
 
@@ -26,17 +26,17 @@ const ContactPage = () => {
     {
       icon: <Linkedin size={20} />,
       name: 'LinkedIn',
-      url: 'https://linkedin.com/'
+      url: 'https://www.linkedin.com/in/zaheer-ahmad-702014293/'
     },
     {
       icon: <Github size={20} />,
       name: 'GitHub',
-      url: 'https://github.com/'
+      url: 'https://github.com/zaheerLangrial'
     },
     {
       icon: <Twitter size={20} />,
       name: 'Twitter',
-      url: 'https://twitter.com/'
+      url: 'https://twitter.com/zaheerLangrial'
     }
   ];
 
