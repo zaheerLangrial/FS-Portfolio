@@ -17,6 +17,7 @@ const AboutPage = () => {
           <SectionHeading 
             title="About Me" 
             subtitle="Learn more about my background, experience, and what drives me as a developer." 
+            align="center"
           />
 
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">

@@ -89,6 +89,7 @@ const ProjectsPage = () => {
         <SectionHeading 
           title="My Projects" 
           subtitle="Explore my latest work and contributions to various projects."
+          align="center"
         />
         
         <div className="mb-8 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">

@@ -46,6 +46,7 @@ const ContactPage = () => {
         <SectionHeading 
           title="Get In Touch" 
           subtitle="Have a project in mind or want to discuss potential opportunities? I'd love to hear from you."
+          align="center"
         />
         
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mt-12">

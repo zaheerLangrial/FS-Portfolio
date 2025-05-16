@@ -56,6 +56,7 @@ const SkillsPage = () => {
         <SectionHeading 
           title="Skills & Expertise" 
           subtitle="A comprehensive overview of my technical skills and proficiency levels."
+          align="center"
         />
         
         {loading ? (
