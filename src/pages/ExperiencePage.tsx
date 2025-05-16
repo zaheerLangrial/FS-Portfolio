@@ -9,8 +9,8 @@ const ExperiencePage = () => {
   const experiences: Experience[] = [
     {
       title: "Full Stack Developer",
-      company: "Axya",
-      description: "Currently working as a Full Stack Developer at Axya, focusing on building and integrating APIs, developing parsers, and writing test cases.",
+      company: "B2B",
+      description: "Currently working as a Full Stack Developer at B2B, focusing on building and integrating APIs, developing parsers, and writing test cases.",
       startDate: "January 2023",
       endDate: "Present",
       achievements: [

@@ -162,7 +162,7 @@ const HomePage = () => {
               <p className="text-text-secondary text-lg mb-6">
                 My journey in web development has allowed me to work on a variety of projects, from 
                 hospital services applications to boxing websites, and I'm currently contributing to 
-                Axya, where I'm building APIs, working on parsers, and writing test cases.
+                B2B, where I'm building APIs, working on parsers, and writing test cases.
               </p>
               <motion.div
                 whileHover={{ scale: 1.05 }}

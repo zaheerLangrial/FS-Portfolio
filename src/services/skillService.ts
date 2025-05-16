@@ -7,7 +7,7 @@ const MOCK_SKILLS: Skill[] = [
     _id: '1',
     name: 'React',
     proficiency: 90,
-    category: 'Frontend',
+    category: 'Framework',
     icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'
   },
   {
@@ -72,7 +72,14 @@ const MOCK_SKILLS: Skill[] = [
     proficiency: 85,
     category: 'Tool',
     icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'
-  }
+  },
+  {
+    _id: '3',
+    name: 'JavaScript',
+    proficiency: 80,
+    category: 'Language',
+    icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'
+  },
 ];
 
 // Get all skills or a limited number

@@ -39,7 +39,7 @@ const AboutPage = () => {
               </p>
               
               <p className="text-text-secondary mb-4">
-                Currently, I'm working on Axya, where I've built and integrated APIs, worked on parsers, and written test cases. This role has allowed me to grow as a developer, tackle complex problems, and collaborate with talented teams.
+                Currently, I'm working on B2B, where I've built and integrated APIs, worked on parsers, and written test cases. This role has allowed me to grow as a developer, tackle complex problems, and collaborate with talented teams.
               </p>
               
               <p className="text-text-secondary">
